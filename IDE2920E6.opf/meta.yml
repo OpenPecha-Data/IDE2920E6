@@ -1,0 +1,37 @@
+id: IDE2920E6
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:04:43.233384'
+last_modified: '2022-06-05T20:04:43.233389'
+parser: null
+source_metadata:
+  title: Tāranātha Series
+  language: bo
+  description: 'Texts by and about Jetsün Tāranātha (rje btsun tA ra nA tha, 1575–1634),
+    translator, prolific author and the second most important figure in the Jonang
+    lineage:'
+  volume:
+    f8140:
+      title: Brief Biography of Tāranātha
+      base_file: f8140.txt
+      order: 1
+      parent: Biography
+    f8A8E:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      base_file: f8A8E.txt
+      order: 2
+      parent: Biography
+    f8D1E:
+      title: 'Flower of Faith: In Praise of Tāranātha, Lord of Secrets'
+      base_file: f8D1E.txt
+      order: 3
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
